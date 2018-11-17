@@ -1,0 +1,29 @@
+body {
+    margin-left: 250px;
+}
+ 
+#paragraph1 {
+    color: #2A31FF;
+}
+#paragraph2 {
+    color: #FF0000;
+}
+  
+h1 {
+    text-align: center;
+}
+
+header {
+    background-color:#666;
+    padding:30px;
+    text-align: center;
+    font-size:35px;
+    color: white;
+}
+
+footer {
+    background-color:#777;
+    padding:10px;
+    text-align: center;
+    color: white;
+}
