@@ -10,7 +10,7 @@
             <?php
                 include ('Header.html');
             ?>            
-            <form action="friendbook.php" method="post">
+            <form action="Friendsbook.php" method="post">
                 <br>Name: <input type="text" name="name">
                 <input type="submit">
             </form>
@@ -55,7 +55,7 @@
 
                 echo "</ul>";   
             ?>
-            <form action="friendbook.php" method="post">
+            <form action="Friendsbook.php" method="post">
                 <br><input type="text" name="nameFilter">
                 <input type ="submit">
              </form>
